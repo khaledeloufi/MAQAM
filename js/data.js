@@ -210,6 +210,23 @@ window.MAQAM_DATA = (function () {
       prices: { package: 850 },
       weights: [PACKAGE_WEIGHT],
       customizable: false
+    },
+    {
+      id: 'greek',
+      name: 'قهوة يونانية',
+      category: 'special',
+      categoryLabel: 'خلطات خاصة',
+      order: 9,
+      featured: false,
+      image: 'قهوة يونانية.png',
+      imageWidth: 1402,
+      imageHeight: 1122,
+      frame: '#5E391A',
+      short: 'قهوة شقراء بمبيض غني ونكهة جوز الهند، لمذاق رفاهية لا يتكرر.',
+      description:
+        'مزيج راقي من القهوة الشقراء والمبيض الغني مضافاً إليه نكهة جوز الهند، التي تمنحك الشعور برفاهية ومتعة لا تتكرر.',
+      prices: { 250: 530, 500: 1060, 1000: 1120 },
+      customizable: false
     }
   ];
 
