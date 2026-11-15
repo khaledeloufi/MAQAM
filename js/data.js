@@ -218,9 +218,9 @@ window.MAQAM_DATA = (function () {
       categoryLabel: 'خلطات خاصة',
       order: 9,
       featured: false,
-      image: 'قهوة يونانية.png',
-      imageWidth: 1402,
-      imageHeight: 1122,
+      image: 'assets/img/products/greek-square.jpg',
+      imageWidth: 1000,
+      imageHeight: 1000,
       frame: '#5E391A',
       short: 'قهوة شقراء بمبيض غني ونكهة جوز الهند، لمذاق رفاهية لا يتكرر.',
       description:
